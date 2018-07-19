@@ -46,7 +46,7 @@ function findLast(theArray){
 
 //return the first element of the array
 function head(theArray){
-
+    return theArray[0];
 }
 
 //create a new array
